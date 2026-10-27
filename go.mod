@@ -1,8 +1,6 @@
 module github.com/drone-plugins/drone-irc
 
-go 1.19
-
-toolchain go1.26.10
+go 1.26.10
 
 require (
 	github.com/drone/drone-template-lib v1.0.0
